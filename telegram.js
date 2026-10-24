@@ -15,7 +15,7 @@ const OFFICIAL_PAIR_GROUP_LINK = "https://t.me/x_nobita_pair_zoon";
 // ALL TELEGRAM SETTINGS ARE CONFIGURED HERE — no .env file required.
 // Put your numeric Telegram user ID(s) below. Find your ID via @userinfobot.
 const OWNER_TELEGRAM_IDS = ["8488798327"];
-const TELEGRAM_BOT_TOKEN = "8537474935:AAG3IeTHmu-2rW3t46b9H473VW4TKANDX1g";
+const TELEGRAM_BOT_TOKEN = "8537474935:AAENmaAp8Hm8giHGqy7lXfIOJxuHrpF0mSE";
 const WA_CHANNEL_LINK = "https://whatsapp.com/channel/0029Vb6gE1WHrDZX1MbuPi3G";
 const GROUP_INVITE_LINK = "";
 
